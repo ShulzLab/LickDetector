@@ -19,7 +19,7 @@ The device is provided by [Sentronic](https://www.sentronic.com/) and comrpises 
 
 ______
 
-The ``capacitive sensor`` plugs into the ``digititzer`` with a polarized connector (no possibility or messing up this part)
+The ``capacitive sensor`` plugs into the ``digititzer`` with a polarized connector (no possibility of messing up this part)
 
 The polarity of the 3 wires for the digitizer are :
 
