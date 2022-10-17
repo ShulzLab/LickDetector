@@ -16,6 +16,8 @@ The device is provided by [Sentronic](https://www.sentronic.com/) and comrpises 
 	SIE Sensorik [ **SV-45/30/15-PS (AE009E)**](https://www.sentronic.com/frontend/scripts/index.php?setMainAreaTemplatePath=mainarea_productdetail.html&productId=23210)
 
 	![image-20211216105418805](README.assets/image-20211216105418805.png)
+	
+	[Datasheet](https://github.com/ShulzLab/LickDetector/blob/main/DP-SV%2045%20all.pdf)
 
 ______
 
